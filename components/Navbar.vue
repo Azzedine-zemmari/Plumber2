@@ -1,5 +1,5 @@
 <template>
-    <nav class="container bg-white max-w-7xl flex justify-between items-center mx-auto p-5">
+    <nav class="container bg-white w-full flex justify-between items-center mx-auto p-5">
         <div class="hidden md:flex  items-center gap-3 ">
             <img src="/img/logo.svg" class="w-10" alt="" loading="lazy" />
             <p class="font-semibold text-[20px]">Radiant Emergency Plumber</p>

@@ -1,6 +1,7 @@
 <template>
-  <div>
+  <div class="">
     <Navbar/>
     <Hero/>
+    <About/>
   </div>
 </template>
