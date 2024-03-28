@@ -7,7 +7,7 @@
         <div>
             <ul class="hidden md:flex items-center gap-4 lg:gap-10">
                 <li class=" font-medium text-lg" v-for="(item, index) in nav" :key="index">
-                    <a :href="item.href">{{ item.name }}</a>
+                    <NuxtLink :href="item.href">{{ item.name }}</NuxtLink>
                 </li>
                 <Call></Call>
             </ul>
@@ -23,7 +23,7 @@
         </button>
         <ul v-if="menu" class="absolute z-10 top-20 right-5 flex flex-col px-5 py-3 bg-sky-50 rounded-lg md:hidden justify-start items-start gap-4">
             <li class="font-medium text-lg" v-for="(item, index) in nav" :key="index">
-                <a :href="item.href">{{ item.name }}</a>
+                <NuxtLink :href="item.href">{{ item.name }}</NuxtLink>
             </li>
             <Call></Call>
         </ul>

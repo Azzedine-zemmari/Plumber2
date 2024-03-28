@@ -1,6 +1,18 @@
 ---
-title: "Dealing with Hard Water Issues in Your Plumbing System"
+- id: 2
+  img: '/img/9.webp'
+  user: 'Radiant Emergency Plumber'
+  timeCreation: 2021-12-12T00:00:00
+  title: 'Dealing with Hard Water Issues in Your Plumbing System'
+  description: >
+    Learn how to tackle hard water problems affecting your plumbing. Discover effective solutions and trust Radiant Emergency Plumber for expert advice and services in Manchester.
+  tags:
+    - 'Smart Plumbing Systems'
+    - 'Home Efficiency'
+    - 'Plumbing Technology'
+    - 'Manchester Plumbing'
 ---
+
 ----------------------
 #image
 ![my image](/img/10.webp)
