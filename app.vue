@@ -1,7 +1,4 @@
 <template>
-  <div class="">
-    <Navbar/>
-    <Hero/>
-    <About/>
-  </div>
+    <NuxtLoadingIndicator />
+    <NuxtPage />
 </template>

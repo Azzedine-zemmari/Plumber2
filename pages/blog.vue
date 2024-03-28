@@ -1,0 +1,4 @@
+<template>
+<Navbar/>
+<Blog/>
+</template>

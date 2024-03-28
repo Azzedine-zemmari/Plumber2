@@ -1,5 +1,5 @@
 <template>
-    <nav class="container bg-white w-full flex justify-between items-center mx-auto p-5">
+    <nav class=" container bg-white w-full flex justify-between items-center mx-auto p-5">
         <div class="hidden md:flex  items-center gap-3 ">
             <img src="/img/logo.svg" class="w-10" alt="" loading="lazy" />
             <p class="font-semibold text-[20px]">Radiant Emergency Plumber</p>
@@ -13,7 +13,7 @@
             </ul>
         </div>
     </nav>
-    <nav class=" relative md:mt-10 container bg-white  flex justify-between mx-auto items-center  p-5 -mt-10">
+    <nav class=" container relative md:mt-10  bg-white  flex justify-between mx-auto items-center  p-5 -mt-10">
         <div class="flex md:hidden gap-3 items-center">
             <img src="/img/logo.svg" class="w-9" alt="" loading="lazy" />
             <p class="font-semibold text-lg">REP</p>

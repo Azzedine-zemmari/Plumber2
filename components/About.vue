@@ -1,5 +1,5 @@
 <template>
-    <div class="container mt-96 pt-40 lg:pt-0 md:pt-20 lg:mt-0 mx-auto flex md:justify-between flex-wrap justify-center gap-11">
+    <div id="about" class="container mt-96 pt-40 lg:pt-0 md:pt-20 lg:mt-0 mx-auto flex md:justify-between flex-wrap justify-center gap-11">
         <div class="relative bg-blue-100 flex items-center justify-center flex-col rounded-lg p-20 w-20 h-20 z-0 shadow-lg">
             <img class="w-20 absolute top-1/2 transform -translate-y-1/2" src="/img/book-online.svg" alt="" loading="lazy">
             <p class="font-bold absolute text-blue-700 top-32">Book Online</p>
