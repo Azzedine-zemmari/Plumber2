@@ -1,75 +1,24 @@
-# Nuxt 3 Minimal Starter
+# 🛠️ Plumber Portfolio Website
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is a modern portfolio website built for a **plumber** to present their services and attract potential clients. The website also includes a blog section to **improve SEO visibility** and increase presence on Google.
 
-## Setup
+## ✨ Features
 
-Make sure to install the dependencies:
+- 🧰 Clean and professional landing page
+- 🪠 List of plumbing services offered
+- 📞 Contact section for client inquiries
+- 📝 SEO-friendly blog to boost search engine ranking
+- 📱 Responsive design for all devices
 
-```bash
-# npm
-npm install
+## 🧪 Technologies Used
 
-# pnpm
-pnpm install
+- ⚙️ [Nuxt.js](https://nuxt.com/) (Vue.js Framework)
+- 🎨 [Tailwind CSS](https://tailwindcss.com/) for styling
+- 🌐 HTML for structure
 
-# yarn
-yarn install
+## 🚀 SEO Strategy
 
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+The blog is used to:
+- Share tips, advice, and tutorials related to plumbing
+- Drive organic traffic through long-tail keywords
+- Increase visibility on search engines
